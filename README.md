@@ -39,7 +39,9 @@ Road_Accident_Analysis/
 This project is open-source and available under the [MIT License](LICENSE).
 
 ## 🤝 Suggestions & Collaboration
-Have any insights, suggestions, or want to collaborate? Feel free to:
+Have any insights, suggestions, or want to collaborate?
+
+Feel free to:
 - Raise an issue
 - Contribute via pull requests
 - Connect with me on LinkedIn
