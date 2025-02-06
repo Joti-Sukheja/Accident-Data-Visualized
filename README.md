@@ -1,6 +1,6 @@
 # Road Accident Analysis
 
-## 📌 Project Overview
+## Project Overview
 This project provides an in-depth analysis of road accidents. By leveraging pivot tables, dashboards, and data visualization techniques, it uncovers key insights into accident trends, vehicle involvement, and high-risk areas. 
 
 ## 📁 Repository Structure
@@ -29,6 +29,10 @@ Road_Accident_Analysis/
 ## 🛠 Tools Used
 - **Microsoft Excel**: Data cleaning, pivot tables, and dashboard visualization
 - **PowerPoint**: Presentation of key findings
+---
+Here’s the visual representation of the Road accident analysis
+## Road Accident Dashboard
+![Road_Accident_dashboard](dashboard/road_accident_dashboard_screenshot.png)
 
 ## 📊 Key Insights
 - Accident trends analyzed by year, location, and vehicle type
